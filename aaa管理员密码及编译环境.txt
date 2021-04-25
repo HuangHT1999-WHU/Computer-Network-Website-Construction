@@ -1,0 +1,3 @@
+管理员密码为：123456
+编译环境为VS2010以及.NET Framework 3.5
+“更多新闻”为搜狐网http://news.sohu.com/
